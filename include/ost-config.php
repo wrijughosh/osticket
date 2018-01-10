@@ -48,6 +48,7 @@ define('DBPASS','demo@pass123');
 define('TABLE_PREFIX','ost_');
 
 #
+#
 # SSL Options
 # ---------------------------------------------------
 # SSL options for MySQL can be enabled by adding a certificate allowed by
